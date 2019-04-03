@@ -3,3 +3,5 @@ npm-debug.log
 .DS_Store
 client/node_modules
 .env
+package-lock.json
+client/package-lock.json
